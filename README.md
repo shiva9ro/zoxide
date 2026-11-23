@@ -7,6 +7,10 @@ This fork provides Windows ARM64 and x64 builds of zoxide for [DirTrail](https:/
 
 ---
 
+## Original zoxide project
+
+The README below comes from the [upstream zoxide project](https://github.com/ajeetdsouza/zoxide). Its installation instructions and links refer to upstream zoxide. For the Windows UNC builds packaged for DirTrail, see the [Windows release](https://github.com/shiva9ro/zoxide/releases/tag/v0.10.0-pr1277) above.
+
 <!-- markdownlint-configure-file {
   "MD013": {
     "code_blocks": false,
