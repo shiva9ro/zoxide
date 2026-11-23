@@ -1,3 +1,12 @@
+## Windows UNC builds for DirTrail
+
+This fork provides Windows ARM64 and x64 builds of zoxide for [DirTrail](https://github.com/shiva9ro/DirTrail). These builds support UNC paths such as `\\server\share\folder`.
+
+- **Source:** UNC support comes from [upstream PR #1277](https://github.com/ajeetdsouza/zoxide/pull/1277). The published binaries were built from [commit `55bc9f0`](https://github.com/shiva9ro/zoxide/commit/55bc9f0f2f7886e0196cb7054bc0321b45ca353f).
+- **Downloads:** The [Windows release](https://github.com/shiva9ro/zoxide/releases/tag/v0.10.0-pr1277) includes ARM64 and x64 ZIPs, SHA-256 checksums, and source and build information.
+
+---
+
 <!-- markdownlint-configure-file {
   "MD013": {
     "code_blocks": false,
